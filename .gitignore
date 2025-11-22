@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Django / Flask specific
+.db
+*.sqlite3
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Environment variables
+*.env
+.env.*
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
